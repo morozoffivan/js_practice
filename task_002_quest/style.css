@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+}
+
+body {
+    text-align: center;
+}
+
+.question-btn-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
